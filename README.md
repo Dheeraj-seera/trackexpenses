@@ -4,7 +4,7 @@
 This is a income and expense tracker where users can track input their expains either by form or by speech recognition
 
 ## Demo
-
+Live: https://celebrated-bonbon-3c60cc.netlify.app/
 
 ## Technologies
 * React.js
